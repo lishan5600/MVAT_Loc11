@@ -1,0 +1,459 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12
+0,38,ENSG00000168036,CTNNB1,Plasma membrane,CAB000108,http://images.proteinatlas.org/108/2790_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,0,0,1
+1,39,ENSG00000168036,CTNNB1,Plasma membrane,CAB000108,http://images.proteinatlas.org/108/2790_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,0,0,1
+2,40,ENSG00000168036,CTNNB1,Plasma membrane,CAB000108,http://images.proteinatlas.org/108/2790_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,0,0,1
+3,41,ENSG00000168036,CTNNB1,Plasma membrane,CAB000108,http://images.proteinatlas.org/108/2790_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,0,0,1
+4,42,ENSG00000168036,CTNNB1,Plasma membrane,CAB000108,http://images.proteinatlas.org/108/2790_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,0,0,1
+5,43,ENSG00000168036,CTNNB1,Plasma membrane,CAB000108,http://images.proteinatlas.org/108/2790_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,0,0,1
+6,44,ENSG00000168036,CTNNB1,Plasma membrane,CAB000108,http://images.proteinatlas.org/108/2790_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,0,0,1
+7,45,ENSG00000168036,CTNNB1,Plasma membrane,CAB000108,http://images.proteinatlas.org/108/2790_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,0,0,1
+8,46,ENSG00000168036,CTNNB1,Plasma membrane,CAB000108,http://images.proteinatlas.org/108/2790_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,0,0,1
+9,2886,ENSG00000092820,EZR,Plasma membrane,CAB004035,http://images.proteinatlas.org/4035/11761_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,0,0,1
+10,2887,ENSG00000092820,EZR,Plasma membrane,CAB004035,http://images.proteinatlas.org/4035/11761_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,0,0,1
+11,2888,ENSG00000092820,EZR,Plasma membrane,CAB004035,http://images.proteinatlas.org/4035/11761_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,0,0,1
+12,2889,ENSG00000092820,EZR,Plasma membrane,CAB004035,http://images.proteinatlas.org/4035/11761_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,0,0,1
+13,2890,ENSG00000092820,EZR,Plasma membrane,CAB004035,http://images.proteinatlas.org/4035/11761_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,0,0,1
+14,2891,ENSG00000092820,EZR,Plasma membrane,CAB004035,http://images.proteinatlas.org/4035/11761_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,0,0,1
+15,1002,ENSG00000089902,RCOR1,Nucleus,CAB001956,http://images.proteinatlas.org/1956/5282_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+16,1003,ENSG00000089902,RCOR1,Nucleus,CAB001956,http://images.proteinatlas.org/1956/5282_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+17,1004,ENSG00000089902,RCOR1,Nucleus,CAB001956,http://images.proteinatlas.org/1956/5282_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+18,1005,ENSG00000089902,RCOR1,Nucleus,CAB001956,http://images.proteinatlas.org/1956/5282_A_4_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+19,1006,ENSG00000089902,RCOR1,Nucleus,CAB001956,http://images.proteinatlas.org/1956/5282_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+20,1007,ENSG00000089902,RCOR1,Nucleus,CAB001956,http://images.proteinatlas.org/1956/5282_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+21,1008,ENSG00000089902,RCOR1,Nucleus,CAB001956,http://images.proteinatlas.org/1956/5282_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+22,1009,ENSG00000089902,RCOR1,Nucleus,CAB001956,http://images.proteinatlas.org/1956/5282_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+23,1010,ENSG00000089902,RCOR1,Nucleus,CAB001956,http://images.proteinatlas.org/1956/5282_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+24,1340,ENSG00000168496,FEN1,Nucleus,CAB002262,http://images.proteinatlas.org/2262/5862_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+25,1341,ENSG00000168496,FEN1,Nucleus,CAB002262,http://images.proteinatlas.org/2262/5862_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+26,1342,ENSG00000168496,FEN1,Nucleus,CAB002262,http://images.proteinatlas.org/2262/5862_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+27,1343,ENSG00000168496,FEN1,Nucleus,CAB002262,http://images.proteinatlas.org/2262/5862_A_4_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+28,1344,ENSG00000168496,FEN1,Nucleus,CAB002262,http://images.proteinatlas.org/2262/5862_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+29,1345,ENSG00000168496,FEN1,Nucleus,CAB002262,http://images.proteinatlas.org/2262/5862_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+30,1346,ENSG00000168496,FEN1,Nucleus,CAB002262,http://images.proteinatlas.org/2262/5862_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+31,1347,ENSG00000168496,FEN1,Nucleus,CAB002262,http://images.proteinatlas.org/2262/5862_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+32,1348,ENSG00000168496,FEN1,Nucleus,CAB002262,http://images.proteinatlas.org/2262/5862_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+33,1846,ENSG00000170430,MGMT,Nucleus,CAB002786,http://images.proteinatlas.org/2786/6782_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+34,1847,ENSG00000170430,MGMT,Nucleus,CAB002786,http://images.proteinatlas.org/2786/6782_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+35,1848,ENSG00000170430,MGMT,Nucleus,CAB002786,http://images.proteinatlas.org/2786/6782_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+36,1849,ENSG00000170430,MGMT,Nucleus,CAB002786,http://images.proteinatlas.org/2786/6782_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+37,1850,ENSG00000170430,MGMT,Nucleus,CAB002786,http://images.proteinatlas.org/2786/6782_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+38,1851,ENSG00000170430,MGMT,Nucleus,CAB002786,http://images.proteinatlas.org/2786/6782_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+39,1852,ENSG00000170430,MGMT,Nucleus,CAB002786,http://images.proteinatlas.org/2786/6782_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+40,1853,ENSG00000170430,MGMT,Nucleus,CAB002786,http://images.proteinatlas.org/2786/6782_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+41,2507,ENSG00000120948,TARDBP,Nucleus,CAB003703,http://images.proteinatlas.org/3703/10479_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+42,2508,ENSG00000120948,TARDBP,Nucleus,CAB003703,http://images.proteinatlas.org/3703/10479_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+43,2509,ENSG00000120948,TARDBP,Nucleus,CAB003703,http://images.proteinatlas.org/3703/10479_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+44,2510,ENSG00000120948,TARDBP,Nucleus,CAB003703,http://images.proteinatlas.org/3703/10479_A_4_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+45,2511,ENSG00000120948,TARDBP,Nucleus,CAB003703,http://images.proteinatlas.org/3703/10479_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+46,2512,ENSG00000120948,TARDBP,Nucleus,CAB003703,http://images.proteinatlas.org/3703/10479_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+47,2513,ENSG00000120948,TARDBP,Nucleus,CAB003703,http://images.proteinatlas.org/3703/10479_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+48,2514,ENSG00000120948,TARDBP,Nucleus,CAB003703,http://images.proteinatlas.org/3703/10479_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+49,2587,ENSG00000115966,ATF2,Nucleus,CAB003769,http://images.proteinatlas.org/3769/11607_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+50,2588,ENSG00000115966,ATF2,Nucleus,CAB003769,http://images.proteinatlas.org/3769/11607_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+51,2589,ENSG00000115966,ATF2,Nucleus,CAB003769,http://images.proteinatlas.org/3769/11607_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+52,2601,ENSG00000118260,CREB1,Nucleus,CAB003803,http://images.proteinatlas.org/3803/10233_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+53,2602,ENSG00000118260,CREB1,Nucleus,CAB003803,http://images.proteinatlas.org/3803/10233_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+54,2603,ENSG00000118260,CREB1,Nucleus,CAB003803,http://images.proteinatlas.org/3803/10233_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+55,2902,ENSG00000118689,FOXO3,Nucleus,CAB004074,http://images.proteinatlas.org/4074/21601_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+56,2903,ENSG00000118689,FOXO3,Nucleus,CAB004074,http://images.proteinatlas.org/4074/21601_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+57,2904,ENSG00000118689,FOXO3,Nucleus,CAB004074,http://images.proteinatlas.org/4074/21601_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+58,2922,ENSG00000020922,MRE11,Nucleus,CAB004081,http://images.proteinatlas.org/4081/11531_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+59,2923,ENSG00000020922,MRE11,Nucleus,CAB004081,http://images.proteinatlas.org/4081/11531_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+60,2924,ENSG00000020922,MRE11,Nucleus,CAB004081,http://images.proteinatlas.org/4081/11531_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+61,2925,ENSG00000020922,MRE11,Nucleus,CAB004081,http://images.proteinatlas.org/4081/11531_A_4_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+62,2926,ENSG00000020922,MRE11,Nucleus,CAB004081,http://images.proteinatlas.org/4081/11531_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+63,3072,ENSG00000115053,NCL,Nucleus,CAB004210,http://images.proteinatlas.org/4210/19179_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+64,3073,ENSG00000115053,NCL,Nucleus,CAB004210,http://images.proteinatlas.org/4210/19179_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+65,3074,ENSG00000115053,NCL,Nucleus,CAB004210,http://images.proteinatlas.org/4210/19179_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+66,3075,ENSG00000115053,NCL,Nucleus,CAB004210,http://images.proteinatlas.org/4210/19179_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+67,3076,ENSG00000115053,NCL,Nucleus,CAB004210,http://images.proteinatlas.org/4210/19179_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+68,3077,ENSG00000159692,CTBP1,Nucleus,CAB004217,http://images.proteinatlas.org/4217/11751_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+69,3078,ENSG00000159692,CTBP1,Nucleus,CAB004217,http://images.proteinatlas.org/4217/11751_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+70,3079,ENSG00000159692,CTBP1,Nucleus,CAB004217,http://images.proteinatlas.org/4217/11751_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+71,3080,ENSG00000159692,CTBP1,Nucleus,CAB004217,http://images.proteinatlas.org/4217/11751_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+72,3081,ENSG00000159692,CTBP1,Nucleus,CAB004217,http://images.proteinatlas.org/4217/11751_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+73,3087,ENSG00000182944,EWSR1,Nucleus,CAB004230,http://images.proteinatlas.org/4230/19373_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+74,3088,ENSG00000182944,EWSR1,Nucleus,CAB004230,http://images.proteinatlas.org/4230/19373_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+75,3089,ENSG00000121022,COPS5,Nucleus,CAB004242,http://images.proteinatlas.org/4242/17557_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+76,3090,ENSG00000121022,COPS5,Nucleus,CAB004242,http://images.proteinatlas.org/4242/17557_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+77,3091,ENSG00000121022,COPS5,Nucleus,CAB004242,http://images.proteinatlas.org/4242/17557_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+78,3092,ENSG00000121022,COPS5,Nucleus,CAB004242,http://images.proteinatlas.org/4242/17557_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+79,3093,ENSG00000121022,COPS5,Nucleus,CAB004242,http://images.proteinatlas.org/4242/17557_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+80,3094,ENSG00000121022,COPS5,Nucleus,CAB004242,http://images.proteinatlas.org/4242/17557_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+81,3095,ENSG00000121022,COPS5,Nucleus,CAB004242,http://images.proteinatlas.org/4242/17557_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+82,3096,ENSG00000196419,XRCC6,Nucleus,CAB004254,http://images.proteinatlas.org/4254/12635_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+83,3097,ENSG00000196419,XRCC6,Nucleus,CAB004254,http://images.proteinatlas.org/4254/12635_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+84,3098,ENSG00000196419,XRCC6,Nucleus,CAB004254,http://images.proteinatlas.org/4254/12635_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+85,3099,ENSG00000196419,XRCC6,Nucleus,CAB004254,http://images.proteinatlas.org/4254/12635_A_4_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+86,3100,ENSG00000196419,XRCC6,Nucleus,CAB004254,http://images.proteinatlas.org/4254/12635_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+87,3101,ENSG00000196419,XRCC6,Nucleus,CAB004254,http://images.proteinatlas.org/4254/12635_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+88,3102,ENSG00000196419,XRCC6,Nucleus,CAB004254,http://images.proteinatlas.org/4254/12635_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+89,3103,ENSG00000196419,XRCC6,Nucleus,CAB004254,http://images.proteinatlas.org/4254/12635_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+90,3104,ENSG00000196419,XRCC6,Nucleus,CAB004254,http://images.proteinatlas.org/4254/12635_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+91,3172,ENSG00000139613,SMARCC2,Nucleus,CAB004321,http://images.proteinatlas.org/4321/11623_A_4_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+92,3173,ENSG00000139613,SMARCC2,Nucleus,CAB004321,http://images.proteinatlas.org/4321/11623_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+93,3174,ENSG00000139613,SMARCC2,Nucleus,CAB004321,http://images.proteinatlas.org/4321/11623_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+94,3175,ENSG00000139613,SMARCC2,Nucleus,CAB004321,http://images.proteinatlas.org/4321/11623_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+95,3176,ENSG00000139613,SMARCC2,Nucleus,CAB004321,http://images.proteinatlas.org/4321/11623_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+96,3224,ENSG00000012061,ERCC1,Nucleus,CAB004390,http://images.proteinatlas.org/4390/11738_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+97,3225,ENSG00000012061,ERCC1,Nucleus,CAB004390,http://images.proteinatlas.org/4390/11738_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+98,3226,ENSG00000012061,ERCC1,Nucleus,CAB004390,http://images.proteinatlas.org/4390/11738_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+99,3256,ENSG00000165119,HNRNPK,Nucleus,CAB004435,http://images.proteinatlas.org/4435/23070_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+100,3257,ENSG00000165119,HNRNPK,Nucleus,CAB004435,http://images.proteinatlas.org/4435/23070_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+101,3258,ENSG00000165119,HNRNPK,Nucleus,CAB004435,http://images.proteinatlas.org/4435/23070_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+102,3259,ENSG00000165119,HNRNPK,Nucleus,CAB004435,http://images.proteinatlas.org/4435/23070_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+103,3260,ENSG00000165119,HNRNPK,Nucleus,CAB004435,http://images.proteinatlas.org/4435/23070_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+104,3261,ENSG00000165119,HNRNPK,Nucleus,CAB004435,http://images.proteinatlas.org/4435/23070_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+105,3262,ENSG00000165119,HNRNPK,Nucleus,CAB004435,http://images.proteinatlas.org/4435/23070_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+106,3263,ENSG00000165119,HNRNPK,Nucleus,CAB004435,http://images.proteinatlas.org/4435/23070_A_8_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+107,3264,ENSG00000165119,HNRNPK,Nucleus,CAB004435,http://images.proteinatlas.org/4435/23070_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+108,3265,ENSG00000126945,HNRNPH2,Nucleus,CAB004436,http://images.proteinatlas.org/4436/18999_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+109,3266,ENSG00000126945,HNRNPH2,Nucleus,CAB004436,http://images.proteinatlas.org/4436/18999_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+110,3267,ENSG00000126945,HNRNPH2,Nucleus,CAB004436,http://images.proteinatlas.org/4436/18999_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+111,3268,ENSG00000126945,HNRNPH2,Nucleus,CAB004436,http://images.proteinatlas.org/4436/18999_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+112,3269,ENSG00000126945,HNRNPH2,Nucleus,CAB004436,http://images.proteinatlas.org/4436/18999_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+113,3270,ENSG00000126945,HNRNPH2,Nucleus,CAB004436,http://images.proteinatlas.org/4436/18999_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+114,3271,ENSG00000126945,HNRNPH2,Nucleus,CAB004436,http://images.proteinatlas.org/4436/18999_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+115,3279,ENSG00000079246,XRCC5,Nucleus,CAB004468,http://images.proteinatlas.org/4468/11773_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+116,3280,ENSG00000079246,XRCC5,Nucleus,CAB004468,http://images.proteinatlas.org/4468/11773_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+117,3281,ENSG00000079246,XRCC5,Nucleus,CAB004468,http://images.proteinatlas.org/4468/11773_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+118,3282,ENSG00000079246,XRCC5,Nucleus,CAB004468,http://images.proteinatlas.org/4468/11773_A_4_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+119,3283,ENSG00000079246,XRCC5,Nucleus,CAB004468,http://images.proteinatlas.org/4468/11773_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+120,3284,ENSG00000079246,XRCC5,Nucleus,CAB004468,http://images.proteinatlas.org/4468/11773_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+121,3307,ENSG00000104738,MCM4,Nucleus,CAB004497,http://images.proteinatlas.org/4497/16414_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+122,3308,ENSG00000104738,MCM4,Nucleus,CAB004497,http://images.proteinatlas.org/4497/16414_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+123,3309,ENSG00000104738,MCM4,Nucleus,CAB004497,http://images.proteinatlas.org/4497/16414_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+124,3354,ENSG00000263001,GTF2I,Nucleus,CAB004595,http://images.proteinatlas.org/4595/11643_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+125,3355,ENSG00000263001,GTF2I,Nucleus,CAB004595,http://images.proteinatlas.org/4595/11643_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+126,3356,ENSG00000263001,GTF2I,Nucleus,CAB004595,http://images.proteinatlas.org/4595/11643_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+127,3360,ENSG00000077097,TOP2B,Nucleus,CAB004601,http://images.proteinatlas.org/4601/11584_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+128,3361,ENSG00000077097,TOP2B,Nucleus,CAB004601,http://images.proteinatlas.org/4601/11584_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+129,3362,ENSG00000077097,TOP2B,Nucleus,CAB004601,http://images.proteinatlas.org/4601/11584_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+130,3368,ENSG00000108312,UBTF,Nucleus,CAB004611,http://images.proteinatlas.org/4611/12237_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+131,3369,ENSG00000108312,UBTF,Nucleus,CAB004611,http://images.proteinatlas.org/4611/12237_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+132,3370,ENSG00000108312,UBTF,Nucleus,CAB004611,http://images.proteinatlas.org/4611/12237_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+133,3371,ENSG00000108312,UBTF,Nucleus,CAB004611,http://images.proteinatlas.org/4611/12237_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+134,3372,ENSG00000108312,UBTF,Nucleus,CAB004611,http://images.proteinatlas.org/4611/12237_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+135,3373,ENSG00000108312,UBTF,Nucleus,CAB004611,http://images.proteinatlas.org/4611/12237_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+136,3584,ENSG00000130725,UBE2M,Nucleus,CAB004993,http://images.proteinatlas.org/4993/16007_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+137,3585,ENSG00000130725,UBE2M,Nucleus,CAB004993,http://images.proteinatlas.org/4993/16007_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+138,3586,ENSG00000130725,UBE2M,Nucleus,CAB004993,http://images.proteinatlas.org/4993/16007_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+139,3600,ENSG00000116478,HDAC1,Nucleus,CAB005017,http://images.proteinatlas.org/5017/18248_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+140,3601,ENSG00000116478,HDAC1,Nucleus,CAB005017,http://images.proteinatlas.org/5017/18248_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+141,3602,ENSG00000116478,HDAC1,Nucleus,CAB005017,http://images.proteinatlas.org/5017/18248_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+142,3603,ENSG00000116478,HDAC1,Nucleus,CAB005017,http://images.proteinatlas.org/5017/18248_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+143,3604,ENSG00000116478,HDAC1,Nucleus,CAB005017,http://images.proteinatlas.org/5017/18248_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+144,3605,ENSG00000116478,HDAC1,Nucleus,CAB005017,http://images.proteinatlas.org/5017/18248_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+145,3606,ENSG00000116478,HDAC1,Nucleus,CAB005017,http://images.proteinatlas.org/5017/18248_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+146,3666,ENSG00000253729,PRKDC,Nucleus,CAB005167,http://images.proteinatlas.org/5167/17933_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+147,3667,ENSG00000253729,PRKDC,Nucleus,CAB005167,http://images.proteinatlas.org/5167/17933_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+148,3668,ENSG00000253729,PRKDC,Nucleus,CAB005167,http://images.proteinatlas.org/5167/17933_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+149,3669,ENSG00000253729,PRKDC,Nucleus,CAB005167,http://images.proteinatlas.org/5167/17933_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+150,3670,ENSG00000253729,PRKDC,Nucleus,CAB005167,http://images.proteinatlas.org/5167/17933_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+151,3671,ENSG00000253729,PRKDC,Nucleus,CAB005167,http://images.proteinatlas.org/5167/17933_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+152,3672,ENSG00000253729,PRKDC,Nucleus,CAB005167,http://images.proteinatlas.org/5167/17933_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+153,3673,ENSG00000253729,PRKDC,Nucleus,CAB005167,http://images.proteinatlas.org/5167/17933_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+154,3674,ENSG00000253729,PRKDC,Nucleus,CAB005167,http://images.proteinatlas.org/5167/17933_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+155,3733,ENSG00000092199,HNRNPC,Nucleus,CAB005223,http://images.proteinatlas.org/5223/13358_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+156,3734,ENSG00000092199,HNRNPC,Nucleus,CAB005223,http://images.proteinatlas.org/5223/13358_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+157,3735,ENSG00000092199,HNRNPC,Nucleus,CAB005223,http://images.proteinatlas.org/5223/13358_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+158,3736,ENSG00000092199,HNRNPC,Nucleus,CAB005223,http://images.proteinatlas.org/5223/13358_A_4_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+159,3737,ENSG00000092199,HNRNPC,Nucleus,CAB005223,http://images.proteinatlas.org/5223/13358_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+160,3738,ENSG00000092199,HNRNPC,Nucleus,CAB005223,http://images.proteinatlas.org/5223/13358_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+161,3739,ENSG00000092199,HNRNPC,Nucleus,CAB005223,http://images.proteinatlas.org/5223/13358_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+162,3740,ENSG00000092199,HNRNPC,Nucleus,CAB005223,http://images.proteinatlas.org/5223/13358_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+163,3741,ENSG00000092199,HNRNPC,Nucleus,CAB005223,http://images.proteinatlas.org/5223/13358_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+164,3779,ENSG00000149480,MTA2,Nucleus,CAB005315,http://images.proteinatlas.org/5315/15836_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+165,3780,ENSG00000149480,MTA2,Nucleus,CAB005315,http://images.proteinatlas.org/5315/15836_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+166,3781,ENSG00000149480,MTA2,Nucleus,CAB005315,http://images.proteinatlas.org/5315/15836_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+167,3782,ENSG00000149480,MTA2,Nucleus,CAB005315,http://images.proteinatlas.org/5315/15836_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+168,3783,ENSG00000149480,MTA2,Nucleus,CAB005315,http://images.proteinatlas.org/5315/15836_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+169,3784,ENSG00000149480,MTA2,Nucleus,CAB005315,http://images.proteinatlas.org/5315/15836_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+170,3785,ENSG00000149480,MTA2,Nucleus,CAB005315,http://images.proteinatlas.org/5315/15836_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+171,3786,ENSG00000149480,MTA2,Nucleus,CAB005315,http://images.proteinatlas.org/5315/15836_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+172,3787,ENSG00000149480,MTA2,Nucleus,CAB005315,http://images.proteinatlas.org/5315/15836_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+173,3804,ENSG00000121774,KHDRBS1,Nucleus,CAB005355,http://images.proteinatlas.org/5355/14091_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+174,3805,ENSG00000121774,KHDRBS1,Nucleus,CAB005355,http://images.proteinatlas.org/5355/14091_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+175,3806,ENSG00000121774,KHDRBS1,Nucleus,CAB005355,http://images.proteinatlas.org/5355/14091_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+176,3807,ENSG00000121774,KHDRBS1,Nucleus,CAB005355,http://images.proteinatlas.org/5355/14091_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+177,3808,ENSG00000121774,KHDRBS1,Nucleus,CAB005355,http://images.proteinatlas.org/5355/14091_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+178,4438,ENSG00000177606,JUN,Nucleus,CAB007780,http://images.proteinatlas.org/7780/18871_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+179,4439,ENSG00000177606,JUN,Nucleus,CAB007780,http://images.proteinatlas.org/7780/18871_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+180,4492,ENSG00000131467,PSME3,Nucleus,CAB008388,http://images.proteinatlas.org/8388/19712_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+181,4493,ENSG00000131467,PSME3,Nucleus,CAB008388,http://images.proteinatlas.org/8388/19712_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+182,4494,ENSG00000131467,PSME3,Nucleus,CAB008388,http://images.proteinatlas.org/8388/19712_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+183,4495,ENSG00000131467,PSME3,Nucleus,CAB008388,http://images.proteinatlas.org/8388/19712_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+184,4496,ENSG00000131467,PSME3,Nucleus,CAB008388,http://images.proteinatlas.org/8388/19712_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+185,4497,ENSG00000131467,PSME3,Nucleus,CAB008388,http://images.proteinatlas.org/8388/19712_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+186,4498,ENSG00000131467,PSME3,Nucleus,CAB008388,http://images.proteinatlas.org/8388/19712_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+187,4499,ENSG00000131467,PSME3,Nucleus,CAB008388,http://images.proteinatlas.org/8388/19712_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+188,4558,ENSG00000004975,DVL2,Nucleus,CAB009312,http://images.proteinatlas.org/9312/23577_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,0,1,0
+189,4559,ENSG00000004975,DVL2,Nucleus,CAB009312,http://images.proteinatlas.org/9312/23577_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,0,1,0
+190,4560,ENSG00000004975,DVL2,Nucleus,CAB009312,http://images.proteinatlas.org/9312/23577_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,0,1,0
+191,4561,ENSG00000096060,FKBP5,Nucleus,CAB009315,http://images.proteinatlas.org/9315/25920_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+192,4562,ENSG00000096060,FKBP5,Nucleus,CAB009315,http://images.proteinatlas.org/9315/25920_A_8_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+193,4563,ENSG00000096060,FKBP5,Nucleus,CAB009315,http://images.proteinatlas.org/9315/25920_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+194,4564,ENSG00000244405,ETV5,Nucleus,CAB009590,http://images.proteinatlas.org/9590/33024_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+195,4565,ENSG00000244405,ETV5,Nucleus,CAB009590,http://images.proteinatlas.org/9590/33024_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+196,4566,ENSG00000244405,ETV5,Nucleus,CAB009590,http://images.proteinatlas.org/9590/33024_A_7_2.jpg,Duodenum,nuclear,0,0,0,1,0
+197,4567,ENSG00000244405,ETV5,Nucleus,CAB009590,http://images.proteinatlas.org/9590/33024_A_8_2.jpg,Duodenum,nuclear,0,0,0,1,0
+198,4568,ENSG00000244405,ETV5,Nucleus,CAB009590,http://images.proteinatlas.org/9590/33024_A_9_2.jpg,Duodenum,nuclear,0,0,0,1,0
+199,4569,ENSG00000153767,GTF2E1,Nucleus,CAB009884,http://images.proteinatlas.org/9884/32849_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+200,4570,ENSG00000153767,GTF2E1,Nucleus,CAB009884,http://images.proteinatlas.org/9884/32849_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+201,4571,ENSG00000153767,GTF2E1,Nucleus,CAB009884,http://images.proteinatlas.org/9884/32849_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+202,4572,ENSG00000153767,GTF2E1,Nucleus,CAB009884,http://images.proteinatlas.org/9884/32849_A_8_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+203,4573,ENSG00000153767,GTF2E1,Nucleus,CAB009884,http://images.proteinatlas.org/9884/32849_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+204,4582,ENSG00000185049,NELFA,Nucleus,CAB009960,http://images.proteinatlas.org/9960/33523_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+205,4583,ENSG00000185049,NELFA,Nucleus,CAB009960,http://images.proteinatlas.org/9960/33523_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+206,4584,ENSG00000185049,NELFA,Nucleus,CAB009960,http://images.proteinatlas.org/9960/33523_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+207,4585,ENSG00000185049,NELFA,Nucleus,CAB009960,http://images.proteinatlas.org/9960/33523_A_4_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+208,4586,ENSG00000185049,NELFA,Nucleus,CAB009960,http://images.proteinatlas.org/9960/33523_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+209,4587,ENSG00000185049,NELFA,Nucleus,CAB009960,http://images.proteinatlas.org/9960/33523_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+210,4588,ENSG00000185049,NELFA,Nucleus,CAB009960,http://images.proteinatlas.org/9960/33523_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+211,4589,ENSG00000185049,NELFA,Nucleus,CAB009960,http://images.proteinatlas.org/9960/33523_A_8_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+212,4590,ENSG00000185049,NELFA,Nucleus,CAB009960,http://images.proteinatlas.org/9960/33523_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+213,0,ENSG00000130726,TRIM28,Nucleus,CAB010066,http://images.proteinatlas.org/10066/27500_A_4_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+214,1,ENSG00000130726,TRIM28,Nucleus,CAB010066,http://images.proteinatlas.org/10066/27500_A_5_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+215,2,ENSG00000130726,TRIM28,Nucleus,CAB010066,http://images.proteinatlas.org/10066/27500_A_6_1.jpg,Stomach 1,nuclear,0,0,0,1,0
+216,9,ENSG00000068654,POLR1A,Nucleus,CAB010145,http://images.proteinatlas.org/10145/28094_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+217,10,ENSG00000068654,POLR1A,Nucleus,CAB010145,http://images.proteinatlas.org/10145/28094_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+218,11,ENSG00000068654,POLR1A,Nucleus,CAB010145,http://images.proteinatlas.org/10145/28094_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+219,12,ENSG00000137807,KIF23,Nucleus,CAB010414,http://images.proteinatlas.org/10414/31091_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+220,13,ENSG00000137807,KIF23,Nucleus,CAB010414,http://images.proteinatlas.org/10414/31091_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+221,14,ENSG00000137807,KIF23,Nucleus,CAB010414,http://images.proteinatlas.org/10414/31091_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+222,15,ENSG00000137807,KIF23,Nucleus,CAB010414,http://images.proteinatlas.org/10414/31091_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+223,16,ENSG00000137807,KIF23,Nucleus,CAB010414,http://images.proteinatlas.org/10414/31091_A_8_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+224,17,ENSG00000137807,KIF23,Nucleus,CAB010414,http://images.proteinatlas.org/10414/31091_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+225,55,ENSG00000135486,HNRNPA1,Nucleus,CAB010894,http://images.proteinatlas.org/10894/49392_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+226,56,ENSG00000135486,HNRNPA1,Nucleus,CAB010894,http://images.proteinatlas.org/10894/49392_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+227,57,ENSG00000135486,HNRNPA1,Nucleus,CAB010894,http://images.proteinatlas.org/10894/49392_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+228,58,ENSG00000135486,HNRNPA1,Nucleus,CAB010894,http://images.proteinatlas.org/10894/49392_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+229,59,ENSG00000135486,HNRNPA1,Nucleus,CAB010894,http://images.proteinatlas.org/10894/49392_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+230,60,ENSG00000135486,HNRNPA1,Nucleus,CAB010894,http://images.proteinatlas.org/10894/49392_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+231,61,ENSG00000135486,HNRNPA1,Nucleus,CAB010894,http://images.proteinatlas.org/10894/49392_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+232,62,ENSG00000135486,HNRNPA1,Nucleus,CAB010894,http://images.proteinatlas.org/10894/49392_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+233,63,ENSG00000063244,U2AF2,Nucleus,CAB010910,http://images.proteinatlas.org/10910/26426_A_1_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+234,64,ENSG00000063244,U2AF2,Nucleus,CAB010910,http://images.proteinatlas.org/10910/26426_A_2_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+235,65,ENSG00000063244,U2AF2,Nucleus,CAB010910,http://images.proteinatlas.org/10910/26426_A_3_1.jpg,Stomach 2,nuclear,0,0,0,1,0
+236,66,ENSG00000063244,U2AF2,Nucleus,CAB010910,http://images.proteinatlas.org/10910/26426_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+237,67,ENSG00000063244,U2AF2,Nucleus,CAB010910,http://images.proteinatlas.org/10910/26426_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+238,68,ENSG00000063244,U2AF2,Nucleus,CAB010910,http://images.proteinatlas.org/10910/26426_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+239,69,ENSG00000063244,U2AF2,Nucleus,CAB010910,http://images.proteinatlas.org/10910/26426_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+240,70,ENSG00000063244,U2AF2,Nucleus,CAB010910,http://images.proteinatlas.org/10910/26426_A_8_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+241,71,ENSG00000063244,U2AF2,Nucleus,CAB010910,http://images.proteinatlas.org/10910/26426_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+242,106,ENSG00000153187,HNRNPU,Nucleus,CAB011532,http://images.proteinatlas.org/11532/33340_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+243,107,ENSG00000153187,HNRNPU,Nucleus,CAB011532,http://images.proteinatlas.org/11532/33340_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+244,108,ENSG00000153187,HNRNPU,Nucleus,CAB011532,http://images.proteinatlas.org/11532/33340_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+245,109,ENSG00000153187,HNRNPU,Nucleus,CAB011532,http://images.proteinatlas.org/11532/33340_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+246,110,ENSG00000153187,HNRNPU,Nucleus,CAB011532,http://images.proteinatlas.org/11532/33340_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+247,111,ENSG00000153187,HNRNPU,Nucleus,CAB011532,http://images.proteinatlas.org/11532/33340_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+248,112,ENSG00000153187,HNRNPU,Nucleus,CAB011532,http://images.proteinatlas.org/11532/33340_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+249,113,ENSG00000153187,HNRNPU,Nucleus,CAB011532,http://images.proteinatlas.org/11532/33340_A_8_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+250,114,ENSG00000153187,HNRNPU,Nucleus,CAB011532,http://images.proteinatlas.org/11532/33340_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",0,0,0,1,0
+251,1835,ENSG00000144381,HSPD1,Mitochondria,CAB002775,http://images.proteinatlas.org/2775/6661_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+252,1836,ENSG00000144381,HSPD1,Mitochondria,CAB002775,http://images.proteinatlas.org/2775/6661_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+253,2597,ENSG00000127884,ECHS1,Mitochondria,CAB003783,http://images.proteinatlas.org/3783/11158_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+254,2598,ENSG00000127884,ECHS1,Mitochondria,CAB003783,http://images.proteinatlas.org/3783/11158_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+255,2599,ENSG00000127884,ECHS1,Mitochondria,CAB003783,http://images.proteinatlas.org/3783/11158_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+256,2600,ENSG00000127884,ECHS1,Mitochondria,CAB003783,http://images.proteinatlas.org/3783/11158_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+257,2724,ENSG00000184047,DIABLO,Mitochondria,CAB003857,http://images.proteinatlas.org/3857/11021_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+258,2725,ENSG00000184047,DIABLO,Mitochondria,CAB003857,http://images.proteinatlas.org/3857/11021_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+259,2726,ENSG00000184047,DIABLO,Mitochondria,CAB003857,http://images.proteinatlas.org/3857/11021_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+260,2727,ENSG00000184047,DIABLO,Mitochondria,CAB003857,http://images.proteinatlas.org/3857/11021_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+261,2728,ENSG00000184047,DIABLO,Mitochondria,CAB003857,http://images.proteinatlas.org/3857/11021_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+262,2729,ENSG00000184047,DIABLO,Mitochondria,CAB003857,http://images.proteinatlas.org/3857/11021_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+263,2730,ENSG00000184047,DIABLO,Mitochondria,CAB003857,http://images.proteinatlas.org/3857/11021_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+264,2731,ENSG00000184047,DIABLO,Mitochondria,CAB003857,http://images.proteinatlas.org/3857/11021_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+265,2732,ENSG00000184047,DIABLO,Mitochondria,CAB003857,http://images.proteinatlas.org/3857/11021_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+266,3866,ENSG00000173726,TOMM20,Mitochondria,CAB005585,http://images.proteinatlas.org/5585/19776_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+267,3867,ENSG00000173726,TOMM20,Mitochondria,CAB005585,http://images.proteinatlas.org/5585/19776_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+268,3868,ENSG00000173726,TOMM20,Mitochondria,CAB005585,http://images.proteinatlas.org/5585/19776_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+269,3869,ENSG00000173726,TOMM20,Mitochondria,CAB005585,http://images.proteinatlas.org/5585/19776_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+270,3870,ENSG00000173726,TOMM20,Mitochondria,CAB005585,http://images.proteinatlas.org/5585/19776_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+271,3871,ENSG00000173726,TOMM20,Mitochondria,CAB005585,http://images.proteinatlas.org/5585/19776_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+272,3872,ENSG00000173726,TOMM20,Mitochondria,CAB005585,http://images.proteinatlas.org/5585/19776_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+273,3873,ENSG00000173726,TOMM20,Mitochondria,CAB005585,http://images.proteinatlas.org/5585/19776_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+274,3874,ENSG00000173726,TOMM20,Mitochondria,CAB005585,http://images.proteinatlas.org/5585/19776_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+275,4521,ENSG00000100348,TXN2,Mitochondria,CAB008681,http://images.proteinatlas.org/8681/23625_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+276,4522,ENSG00000100348,TXN2,Mitochondria,CAB008681,http://images.proteinatlas.org/8681/23625_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+277,4523,ENSG00000100348,TXN2,Mitochondria,CAB008681,http://images.proteinatlas.org/8681/23625_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+278,4524,ENSG00000100348,TXN2,Mitochondria,CAB008681,http://images.proteinatlas.org/8681/23625_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+279,4525,ENSG00000100348,TXN2,Mitochondria,CAB008681,http://images.proteinatlas.org/8681/23625_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+280,4526,ENSG00000100348,TXN2,Mitochondria,CAB008681,http://images.proteinatlas.org/8681/23625_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+281,4527,ENSG00000100348,TXN2,Mitochondria,CAB008681,http://images.proteinatlas.org/8681/23625_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+282,4528,ENSG00000100348,TXN2,Mitochondria,CAB008681,http://images.proteinatlas.org/8681/23625_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+283,4552,ENSG00000088888,MAVS,Mitochondria,CAB009187,http://images.proteinatlas.org/9187/24846_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+284,4553,ENSG00000088888,MAVS,Mitochondria,CAB009187,http://images.proteinatlas.org/9187/24846_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+285,4554,ENSG00000088888,MAVS,Mitochondria,CAB009187,http://images.proteinatlas.org/9187/24846_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+286,4555,ENSG00000088888,MAVS,Mitochondria,CAB009187,http://images.proteinatlas.org/9187/24846_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+287,4556,ENSG00000088888,MAVS,Mitochondria,CAB009187,http://images.proteinatlas.org/9187/24846_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+288,4557,ENSG00000088888,MAVS,Mitochondria,CAB009187,http://images.proteinatlas.org/9187/24846_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+289,406,ENSG00000215021,PHB2,Mitochondria,CAB014889,http://images.proteinatlas.org/14889/36808_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+290,407,ENSG00000215021,PHB2,Mitochondria,CAB014889,http://images.proteinatlas.org/14889/36808_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+291,408,ENSG00000215021,PHB2,Mitochondria,CAB014889,http://images.proteinatlas.org/14889/36808_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+292,702,ENSG00000110955,ATP5F1B,Mitochondria,CAB017527,http://images.proteinatlas.org/17527/39694_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+293,703,ENSG00000110955,ATP5F1B,Mitochondria,CAB017527,http://images.proteinatlas.org/17527/39694_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+294,704,ENSG00000110955,ATP5F1B,Mitochondria,CAB017527,http://images.proteinatlas.org/17527/39694_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+295,705,ENSG00000110955,ATP5F1B,Mitochondria,CAB017527,http://images.proteinatlas.org/17527/39694_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+296,721,ENSG00000091483,FH,Mitochondria,CAB017785,http://images.proteinatlas.org/17785/39203_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+297,722,ENSG00000091483,FH,Mitochondria,CAB017785,http://images.proteinatlas.org/17785/39203_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+298,723,ENSG00000091483,FH,Mitochondria,CAB017785,http://images.proteinatlas.org/17785/39203_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+299,1675,ENSG00000215021,PHB2,Mitochondria,CAB026335,http://images.proteinatlas.org/26335/54298_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+300,1676,ENSG00000215021,PHB2,Mitochondria,CAB026335,http://images.proteinatlas.org/26335/54298_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+301,1677,ENSG00000215021,PHB2,Mitochondria,CAB026335,http://images.proteinatlas.org/26335/54298_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+302,1678,ENSG00000215021,PHB2,Mitochondria,CAB026335,http://images.proteinatlas.org/26335/54298_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+303,1679,ENSG00000215021,PHB2,Mitochondria,CAB026335,http://images.proteinatlas.org/26335/54298_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+304,1680,ENSG00000215021,PHB2,Mitochondria,CAB026335,http://images.proteinatlas.org/26335/54298_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+305,1681,ENSG00000215021,PHB2,Mitochondria,CAB026335,http://images.proteinatlas.org/26335/54298_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+306,1682,ENSG00000215021,PHB2,Mitochondria,CAB026335,http://images.proteinatlas.org/26335/54298_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+307,1683,ENSG00000215021,PHB2,Mitochondria,CAB026335,http://images.proteinatlas.org/26335/54298_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+308,2177,ENSG00000173599,PC,Mitochondria,CAB033742,http://images.proteinatlas.org/33742/73240_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+309,2178,ENSG00000173599,PC,Mitochondria,CAB033742,http://images.proteinatlas.org/33742/73240_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+310,2179,ENSG00000173599,PC,Mitochondria,CAB033742,http://images.proteinatlas.org/33742/73240_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+311,2180,ENSG00000173599,PC,Mitochondria,CAB033742,http://images.proteinatlas.org/33742/73240_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+312,2181,ENSG00000173599,PC,Mitochondria,CAB033742,http://images.proteinatlas.org/33742/73240_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+313,2182,ENSG00000173599,PC,Mitochondria,CAB033742,http://images.proteinatlas.org/33742/73240_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+314,2183,ENSG00000173599,PC,Mitochondria,CAB033742,http://images.proteinatlas.org/33742/73240_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+315,2184,ENSG00000173599,PC,Mitochondria,CAB033742,http://images.proteinatlas.org/33742/73240_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+316,2185,ENSG00000138095,LRPPRC,Mitochondria,CAB033786,http://images.proteinatlas.org/33786/76678_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+317,2186,ENSG00000138095,LRPPRC,Mitochondria,CAB033786,http://images.proteinatlas.org/33786/76678_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+318,2187,ENSG00000138095,LRPPRC,Mitochondria,CAB033786,http://images.proteinatlas.org/33786/76678_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+319,2188,ENSG00000138095,LRPPRC,Mitochondria,CAB033786,http://images.proteinatlas.org/33786/76678_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+320,2189,ENSG00000138095,LRPPRC,Mitochondria,CAB033786,http://images.proteinatlas.org/33786/76678_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+321,2198,ENSG00000160194,NDUFV3,Mitochondria,CAB034142,http://images.proteinatlas.org/34142/66801_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+322,2199,ENSG00000160194,NDUFV3,Mitochondria,CAB034142,http://images.proteinatlas.org/34142/66801_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+323,2200,ENSG00000160194,NDUFV3,Mitochondria,CAB034142,http://images.proteinatlas.org/34142/66801_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+324,2201,ENSG00000160194,NDUFV3,Mitochondria,CAB034142,http://images.proteinatlas.org/34142/66801_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+325,2202,ENSG00000160194,NDUFV3,Mitochondria,CAB034142,http://images.proteinatlas.org/34142/66801_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+326,2203,ENSG00000160194,NDUFV3,Mitochondria,CAB034142,http://images.proteinatlas.org/34142/66801_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+327,2204,ENSG00000160194,NDUFV3,Mitochondria,CAB034142,http://images.proteinatlas.org/34142/66801_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+328,4299,ENSG00000144381,HSPD1,Mitochondria,CAB072816,http://images.proteinatlas.org/72816/152881_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+329,4300,ENSG00000144381,HSPD1,Mitochondria,CAB072816,http://images.proteinatlas.org/72816/152881_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,0,1,0,0
+330,4301,ENSG00000144381,HSPD1,Mitochondria,CAB072816,http://images.proteinatlas.org/72816/152881_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+331,4302,ENSG00000144381,HSPD1,Mitochondria,CAB072816,http://images.proteinatlas.org/72816/152881_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,0,0,1,0,0
+332,4303,ENSG00000144381,HSPD1,Mitochondria,CAB072816,http://images.proteinatlas.org/72816/152881_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+333,4304,ENSG00000144381,HSPD1,Mitochondria,CAB072816,http://images.proteinatlas.org/72816/152881_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,0,1,0,0
+334,344,ENSG00000136935,GOLGA1,Golgi apparatus,CAB013065,http://images.proteinatlas.org/13065/29935_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,1,0,0,0
+335,345,ENSG00000136935,GOLGA1,Golgi apparatus,CAB013065,http://images.proteinatlas.org/13065/29935_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,1,0,0,0
+336,346,ENSG00000136935,GOLGA1,Golgi apparatus,CAB013065,http://images.proteinatlas.org/13065/29935_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",0,1,0,0,0
+337,347,ENSG00000136935,GOLGA1,Golgi apparatus,CAB013065,http://images.proteinatlas.org/13065/29935_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,1,0,0,0
+338,348,ENSG00000136935,GOLGA1,Golgi apparatus,CAB013065,http://images.proteinatlas.org/13065/29935_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,1,0,0,0
+339,349,ENSG00000136935,GOLGA1,Golgi apparatus,CAB013065,http://images.proteinatlas.org/13065/29935_A_9_2.jpg,Duodenum,cytoplasmic/membranous,0,1,0,0,0
+340,449,ENSG00000167110,GOLGA2,Golgi apparatus,CAB015421,http://images.proteinatlas.org/15421/33797_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,1,0,0,0
+341,450,ENSG00000167110,GOLGA2,Golgi apparatus,CAB015421,http://images.proteinatlas.org/15421/33797_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,1,0,0,0
+342,589,ENSG00000122585,NPY,Golgi apparatus,CAB016733,http://images.proteinatlas.org/16733/102572_A_7_2.jpg,Duodenum,cytoplasmic/membranous,0,1,0,0,0
+343,590,ENSG00000122585,NPY,Golgi apparatus,CAB016733,http://images.proteinatlas.org/16733/102572_A_8_2.jpg,Duodenum,cytoplasmic/membranous,0,1,0,0,0
+344,2219,ENSG00000105669,COPE,Golgi apparatus,CAB034345,http://images.proteinatlas.org/34345/74809_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,0,1,0,0,0
+345,2220,ENSG00000105669,COPE,Golgi apparatus,CAB034345,http://images.proteinatlas.org/34345/74809_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,0,1,0,0,0
+346,2221,ENSG00000105669,COPE,Golgi apparatus,CAB034345,http://images.proteinatlas.org/34345/74809_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,0,1,0,0,0
+347,3082,ENSG00000100664,EIF5,Cytoplasm,CAB004226,http://images.proteinatlas.org/4226/12204_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+348,3083,ENSG00000100664,EIF5,Cytoplasm,CAB004226,http://images.proteinatlas.org/4226/12204_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+349,3084,ENSG00000100664,EIF5,Cytoplasm,CAB004226,http://images.proteinatlas.org/4226/12204_A_7_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+350,3085,ENSG00000100664,EIF5,Cytoplasm,CAB004226,http://images.proteinatlas.org/4226/12204_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+351,3086,ENSG00000100664,EIF5,Cytoplasm,CAB004226,http://images.proteinatlas.org/4226/12204_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+352,3120,ENSG00000124181,PLCG1,Cytoplasm,CAB004277,http://images.proteinatlas.org/4277/14030_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+353,3121,ENSG00000124181,PLCG1,Cytoplasm,CAB004277,http://images.proteinatlas.org/4277/14030_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+354,3122,ENSG00000124181,PLCG1,Cytoplasm,CAB004277,http://images.proteinatlas.org/4277/14030_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+355,3123,ENSG00000124181,PLCG1,Cytoplasm,CAB004277,http://images.proteinatlas.org/4277/14030_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+356,3124,ENSG00000124181,PLCG1,Cytoplasm,CAB004277,http://images.proteinatlas.org/4277/14030_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+357,3125,ENSG00000124181,PLCG1,Cytoplasm,CAB004277,http://images.proteinatlas.org/4277/14030_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+358,3126,ENSG00000124181,PLCG1,Cytoplasm,CAB004277,http://images.proteinatlas.org/4277/14030_A_7_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+359,3127,ENSG00000124181,PLCG1,Cytoplasm,CAB004277,http://images.proteinatlas.org/4277/14030_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+360,3128,ENSG00000124181,PLCG1,Cytoplasm,CAB004277,http://images.proteinatlas.org/4277/14030_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+361,3363,ENSG00000127191,TRAF2,Cytoplasm,CAB004603,http://images.proteinatlas.org/4603/13959_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+362,3364,ENSG00000127191,TRAF2,Cytoplasm,CAB004603,http://images.proteinatlas.org/4603/13959_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+363,3365,ENSG00000127191,TRAF2,Cytoplasm,CAB004603,http://images.proteinatlas.org/4603/13959_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+364,3366,ENSG00000127191,TRAF2,Cytoplasm,CAB004603,http://images.proteinatlas.org/4603/13959_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+365,3367,ENSG00000127191,TRAF2,Cytoplasm,CAB004603,http://images.proteinatlas.org/4603/13959_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+366,3612,ENSG00000173039,RELA,Cytoplasm,CAB005030,http://images.proteinatlas.org/5030/18470_A_7_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+367,3613,ENSG00000173039,RELA,Cytoplasm,CAB005030,http://images.proteinatlas.org/5030/18470_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+368,3614,ENSG00000173039,RELA,Cytoplasm,CAB005030,http://images.proteinatlas.org/5030/18470_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+369,3809,ENSG00000160691,SHC1,Cytoplasm,CAB005374,http://images.proteinatlas.org/5374/27882_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+370,3810,ENSG00000160691,SHC1,Cytoplasm,CAB005374,http://images.proteinatlas.org/5374/27882_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+371,3811,ENSG00000160691,SHC1,Cytoplasm,CAB005374,http://images.proteinatlas.org/5374/27882_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+372,3812,ENSG00000160691,SHC1,Cytoplasm,CAB005374,http://images.proteinatlas.org/5374/27882_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+373,3813,ENSG00000160691,SHC1,Cytoplasm,CAB005374,http://images.proteinatlas.org/5374/27882_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+374,3814,ENSG00000160691,SHC1,Cytoplasm,CAB005374,http://images.proteinatlas.org/5374/27882_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+375,3815,ENSG00000160691,SHC1,Cytoplasm,CAB005374,http://images.proteinatlas.org/5374/27882_A_7_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+376,3816,ENSG00000160691,SHC1,Cytoplasm,CAB005374,http://images.proteinatlas.org/5374/27882_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+377,3817,ENSG00000160691,SHC1,Cytoplasm,CAB005374,http://images.proteinatlas.org/5374/27882_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+378,18,ENSG00000163932,PRKCD,Cytoplasm,CAB010469,http://images.proteinatlas.org/10469/34406_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+379,19,ENSG00000163932,PRKCD,Cytoplasm,CAB010469,http://images.proteinatlas.org/10469/34406_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+380,20,ENSG00000163932,PRKCD,Cytoplasm,CAB010469,http://images.proteinatlas.org/10469/34406_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+381,21,ENSG00000163932,PRKCD,Cytoplasm,CAB010469,http://images.proteinatlas.org/10469/34406_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+382,22,ENSG00000163932,PRKCD,Cytoplasm,CAB010469,http://images.proteinatlas.org/10469/34406_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+383,141,ENSG00000134001,EIF2S1,Cytoplasm,CAB011663,http://images.proteinatlas.org/11663/31228_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+384,142,ENSG00000134001,EIF2S1,Cytoplasm,CAB011663,http://images.proteinatlas.org/11663/31228_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+385,143,ENSG00000134001,EIF2S1,Cytoplasm,CAB011663,http://images.proteinatlas.org/11663/31228_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+386,144,ENSG00000134001,EIF2S1,Cytoplasm,CAB011663,http://images.proteinatlas.org/11663/31228_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+387,145,ENSG00000134001,EIF2S1,Cytoplasm,CAB011663,http://images.proteinatlas.org/11663/31228_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+388,146,ENSG00000134001,EIF2S1,Cytoplasm,CAB011663,http://images.proteinatlas.org/11663/31228_A_7_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+389,147,ENSG00000134001,EIF2S1,Cytoplasm,CAB011663,http://images.proteinatlas.org/11663/31228_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+390,148,ENSG00000134001,EIF2S1,Cytoplasm,CAB011663,http://images.proteinatlas.org/11663/31228_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+391,240,ENSG00000102081,FMR1,Cytoplasm,CAB012444,http://images.proteinatlas.org/12444/27613_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+392,241,ENSG00000102081,FMR1,Cytoplasm,CAB012444,http://images.proteinatlas.org/12444/27613_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+393,242,ENSG00000102081,FMR1,Cytoplasm,CAB012444,http://images.proteinatlas.org/12444/27613_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+394,243,ENSG00000102081,FMR1,Cytoplasm,CAB012444,http://images.proteinatlas.org/12444/27613_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+395,244,ENSG00000102081,FMR1,Cytoplasm,CAB012444,http://images.proteinatlas.org/12444/27613_A_7_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+396,245,ENSG00000102081,FMR1,Cytoplasm,CAB012444,http://images.proteinatlas.org/12444/27613_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+397,246,ENSG00000102081,FMR1,Cytoplasm,CAB012444,http://images.proteinatlas.org/12444/27613_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+398,256,ENSG00000164163,ABCE1,Cytoplasm,CAB012476,http://images.proteinatlas.org/12476/31725_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+399,257,ENSG00000164163,ABCE1,Cytoplasm,CAB012476,http://images.proteinatlas.org/12476/31725_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+400,258,ENSG00000164163,ABCE1,Cytoplasm,CAB012476,http://images.proteinatlas.org/12476/31725_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+401,259,ENSG00000164163,ABCE1,Cytoplasm,CAB012476,http://images.proteinatlas.org/12476/31725_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+402,260,ENSG00000164163,ABCE1,Cytoplasm,CAB012476,http://images.proteinatlas.org/12476/31725_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+403,261,ENSG00000164163,ABCE1,Cytoplasm,CAB012476,http://images.proteinatlas.org/12476/31725_A_7_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+404,262,ENSG00000164163,ABCE1,Cytoplasm,CAB012476,http://images.proteinatlas.org/12476/31725_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+405,263,ENSG00000164163,ABCE1,Cytoplasm,CAB012476,http://images.proteinatlas.org/12476/31725_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+406,270,ENSG00000165699,TSC1,Cytoplasm,CAB012481,http://images.proteinatlas.org/12481/33717_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+407,271,ENSG00000165699,TSC1,Cytoplasm,CAB012481,http://images.proteinatlas.org/12481/33717_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+408,272,ENSG00000165699,TSC1,Cytoplasm,CAB012481,http://images.proteinatlas.org/12481/33717_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+409,273,ENSG00000165699,TSC1,Cytoplasm,CAB012481,http://images.proteinatlas.org/12481/33717_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+410,274,ENSG00000165699,TSC1,Cytoplasm,CAB012481,http://images.proteinatlas.org/12481/33717_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+411,275,ENSG00000165699,TSC1,Cytoplasm,CAB012481,http://images.proteinatlas.org/12481/33717_A_7_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+412,276,ENSG00000165699,TSC1,Cytoplasm,CAB012481,http://images.proteinatlas.org/12481/33717_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+413,277,ENSG00000165699,TSC1,Cytoplasm,CAB012481,http://images.proteinatlas.org/12481/33717_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+414,350,ENSG00000163932,PRKCD,Cytoplasm,CAB013225,http://images.proteinatlas.org/13225/34383_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+415,351,ENSG00000163932,PRKCD,Cytoplasm,CAB013225,http://images.proteinatlas.org/13225/34383_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,0,0
+416,352,ENSG00000163932,PRKCD,Cytoplasm,CAB013225,http://images.proteinatlas.org/13225/34383_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+417,353,ENSG00000163932,PRKCD,Cytoplasm,CAB013225,http://images.proteinatlas.org/13225/34383_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+418,354,ENSG00000163932,PRKCD,Cytoplasm,CAB013225,http://images.proteinatlas.org/13225/34383_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,0
+419,355,ENSG00000163932,PRKCD,Cytoplasm,CAB013225,http://images.proteinatlas.org/13225/34383_A_7_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+420,356,ENSG00000163932,PRKCD,Cytoplasm,CAB013225,http://images.proteinatlas.org/13225/34383_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+421,357,ENSG00000163932,PRKCD,Cytoplasm,CAB013225,http://images.proteinatlas.org/13225/34383_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,0
+433,1620,ENSG00000197956,S100A6,Cytoplasm;Plasma membrane,CAB002601,http://images.proteinatlas.org/2601/6726_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",1,0,0,0,1
+434,1621,ENSG00000197956,S100A6,Cytoplasm;Plasma membrane,CAB002601,http://images.proteinatlas.org/2601/6726_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",1,0,0,0,1
+435,1622,ENSG00000197956,S100A6,Cytoplasm;Plasma membrane,CAB002601,http://images.proteinatlas.org/2601/6726_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",1,0,0,0,1
+436,2462,ENSG00000092621,PHGDH,Cytoplasm;Plasma membrane,CAB003681,http://images.proteinatlas.org/3681/10161_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,1
+437,2463,ENSG00000092621,PHGDH,Cytoplasm;Plasma membrane,CAB003681,http://images.proteinatlas.org/3681/10161_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,1
+438,2464,ENSG00000092621,PHGDH,Cytoplasm;Plasma membrane,CAB003681,http://images.proteinatlas.org/3681/10161_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,1
+439,2681,ENSG00000169032,MAP2K1,Cytoplasm;Plasma membrane,CAB003834,http://images.proteinatlas.org/3834/10783_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,1
+440,2682,ENSG00000169032,MAP2K1,Cytoplasm;Plasma membrane,CAB003834,http://images.proteinatlas.org/3834/10783_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,1
+441,2683,ENSG00000169032,MAP2K1,Cytoplasm;Plasma membrane,CAB003834,http://images.proteinatlas.org/3834/10783_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,0,1
+442,3818,ENSG00000186575,NF2,Cytoplasm;Plasma membrane,CAB005385,http://images.proteinatlas.org/5385/19505_A_1_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",1,0,0,0,1
+443,3819,ENSG00000186575,NF2,Cytoplasm;Plasma membrane,CAB005385,http://images.proteinatlas.org/5385/19505_A_2_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",1,0,0,0,1
+444,3820,ENSG00000186575,NF2,Cytoplasm;Plasma membrane,CAB005385,http://images.proteinatlas.org/5385/19505_A_3_1.jpg,Stomach 2,"cytoplasmic/membranous,nuclear",1,0,0,0,1
+445,3821,ENSG00000186575,NF2,Cytoplasm;Plasma membrane,CAB005385,http://images.proteinatlas.org/5385/19505_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",1,0,0,0,1
+446,3822,ENSG00000186575,NF2,Cytoplasm;Plasma membrane,CAB005385,http://images.proteinatlas.org/5385/19505_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",1,0,0,0,1
+447,3823,ENSG00000186575,NF2,Cytoplasm;Plasma membrane,CAB005385,http://images.proteinatlas.org/5385/19505_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,1
+448,3824,ENSG00000186575,NF2,Cytoplasm;Plasma membrane,CAB005385,http://images.proteinatlas.org/5385/19505_A_9_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,0,1
+449,1169,ENSG00000120694,HSPH1,Cytoplasm;Nucleus,CAB002060,http://images.proteinatlas.org/2060/7263_A_1_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,1,0
+450,1170,ENSG00000120694,HSPH1,Cytoplasm;Nucleus,CAB002060,http://images.proteinatlas.org/2060/7263_A_2_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,1,0
+451,1171,ENSG00000120694,HSPH1,Cytoplasm;Nucleus,CAB002060,http://images.proteinatlas.org/2060/7263_A_3_1.jpg,Stomach 2,cytoplasmic/membranous,1,0,0,1,0
+452,1172,ENSG00000120694,HSPH1,Cytoplasm;Nucleus,CAB002060,http://images.proteinatlas.org/2060/7263_A_4_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,1,0
+453,1173,ENSG00000120694,HSPH1,Cytoplasm;Nucleus,CAB002060,http://images.proteinatlas.org/2060/7263_A_5_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,1,0
+454,1174,ENSG00000120694,HSPH1,Cytoplasm;Nucleus,CAB002060,http://images.proteinatlas.org/2060/7263_A_6_1.jpg,Stomach 1,cytoplasmic/membranous,1,0,0,1,0
+455,1175,ENSG00000120694,HSPH1,Cytoplasm;Nucleus,CAB002060,http://images.proteinatlas.org/2060/7263_A_7_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,1,0
+456,1176,ENSG00000120694,HSPH1,Cytoplasm;Nucleus,CAB002060,http://images.proteinatlas.org/2060/7263_A_8_2.jpg,Duodenum,cytoplasmic/membranous,1,0,0,1,0
+457,3177,ENSG00000163930,BAP1,Cytoplasm;Nucleus,CAB004322,http://images.proteinatlas.org/4322/11864_A_7_2.jpg,Duodenum,nuclear,1,0,0,1,0
+458,3178,ENSG00000163930,BAP1,Cytoplasm;Nucleus,CAB004322,http://images.proteinatlas.org/4322/11864_A_8_2.jpg,Duodenum,nuclear,1,0,0,1,0
+459,3179,ENSG00000163930,BAP1,Cytoplasm;Nucleus,CAB004322,http://images.proteinatlas.org/4322/11864_A_9_2.jpg,Duodenum,nuclear,1,0,0,1,0
+460,3343,ENSG00000114166,KAT2B,Cytoplasm;Nucleus,CAB004526,http://images.proteinatlas.org/4526/13646_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",1,0,0,1,0
+461,3344,ENSG00000114166,KAT2B,Cytoplasm;Nucleus,CAB004526,http://images.proteinatlas.org/4526/13646_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",1,0,0,1,0
+462,3345,ENSG00000114166,KAT2B,Cytoplasm;Nucleus,CAB004526,http://images.proteinatlas.org/4526/13646_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",1,0,0,1,0
+463,4515,ENSG00000136810,TXN,Cytoplasm;Nucleus,CAB008678,http://images.proteinatlas.org/8678/21837_A_4_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",1,0,0,1,0
+464,4516,ENSG00000136810,TXN,Cytoplasm;Nucleus,CAB008678,http://images.proteinatlas.org/8678/21837_A_5_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",1,0,0,1,0
+465,4517,ENSG00000136810,TXN,Cytoplasm;Nucleus,CAB008678,http://images.proteinatlas.org/8678/21837_A_6_1.jpg,Stomach 1,"cytoplasmic/membranous,nuclear",1,0,0,1,0
+466,4518,ENSG00000136810,TXN,Cytoplasm;Nucleus,CAB008678,http://images.proteinatlas.org/8678/21837_A_7_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",1,0,0,1,0
+467,4519,ENSG00000136810,TXN,Cytoplasm;Nucleus,CAB008678,http://images.proteinatlas.org/8678/21837_A_8_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",1,0,0,1,0
+468,4520,ENSG00000136810,TXN,Cytoplasm;Nucleus,CAB008678,http://images.proteinatlas.org/8678/21837_A_9_2.jpg,Duodenum,"cytoplasmic/membranous,nuclear",1,0,0,1,0
